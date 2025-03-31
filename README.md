@@ -1,4 +1,4 @@
-#AI First  Personal Project - Sleep Quality Predcition
+#First  Personal Project - Sleep Quality Predcition
 
  **This is /!\ an ongoing /!\ personal project** aimed at building a full machine learning pipeline from scratch to deployment.
 
