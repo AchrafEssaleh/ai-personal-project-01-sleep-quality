@@ -28,11 +28,11 @@ The goal is to create an AI model that predicts sleep quality and gives predicti
 ##  Status
 
 - [x] Project definition
-- [ ] Data collection plan
-- [ ] Initial dataset exploration
+- [x] Data collection plan
+- [x] Initial dataset exploration
 - [ ] Model training & evaluation
 - [ ] Deployment setup
 
 ---                                                
 
-Stay tuned — updates are coming soon
+Stay tuned — updates are coming soon 25/06/2025
