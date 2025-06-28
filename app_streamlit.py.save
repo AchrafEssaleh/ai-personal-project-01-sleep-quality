@@ -1,6 +1,0 @@
-import streamlit as st
-import pickle
-import numpy as np
-
-st.title("Sleep Quality Predictor")
-st.write("Enter your smartphone habits to estimat
