@@ -1,6 +1,10 @@
-#First  Personal Project - Sleep Quality Predcition
+#First  Personal Project - Sleep Quality Prediction
+## Demo
 
- **This is /!\ an ongoing /!\ personal project** aimed at building a full machine learning pipeline from scratch to deployment.
+![App Screenshot](app_screenshot.png)
+
+
+ **This is my first personal project** aimed at building a full machine learning pipeline from scratch to deployment.
 
 ## Project Overview
 
@@ -14,7 +18,7 @@ The goal is to create an AI model that predicts sleep quality and gives predicti
 - Perform EDA i.e. exploratory data analysis
 - Build and evaluate ML models
 - Visualize key patterns and trends
-- Deploy a working prototype (web app or API)
+- Deploy a working prototype (web app -> Streamlit)
 
 ## Key Skills Practiced
 
@@ -30,9 +34,7 @@ The goal is to create an AI model that predicts sleep quality and gives predicti
 - [x] Project definition
 - [x] Data collection plan
 - [x] Initial dataset exploration
-- [ ] Model training & evaluation
-- [ ] Deployment setup
+- [x] Model training & evaluation
+- [x] Deployment setup
 
----                                                
-
-Stay tuned — updates are coming soon 25/06/2025
+ --28/06/2025
