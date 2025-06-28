@@ -1,6 +1,6 @@
 #First  Personal Project - Sleep Quality Prediction
 ## Demo
-
+Here’s a preview of the Streamlit web app interface.
 ![App Screenshot](app_screenshot.png)
 
 
