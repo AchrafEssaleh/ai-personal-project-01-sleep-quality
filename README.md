@@ -1,4 +1,8 @@
 #First  Personal Project - Sleep Quality Prediction
+## Demo
+
+![App Screenshot](app_screenshot.png)
+
 
  **This is my first personal project** aimed at building a full machine learning pipeline from scratch to deployment.
 
